@@ -2,4 +2,11 @@
 <resources>
     <string name="power_connected">Power Connected</string>
     <string name="power_disconnected">Power Disconected</string>
+    <string name="widget_id">Widget ID</string>
+    <string name="_0">0</string>
+    <string name="update_now"> Update Now </string>
+    <string name="x">X</string>
+    <string name="last_update">Last Update</string>
+    <string name="_12_2_2021">12-2-2021</string>
+    <string name="_14_23">14.23</string>
 </resources>
